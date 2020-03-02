@@ -1,1 +1,1 @@
-git fetch -p # Delete multiple obsolete tracking branches
+$ git fetch -p # Delete multiple obsolete tracking branches
