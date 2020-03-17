@@ -6,3 +6,4 @@ Contains :
 * Matplotlib
 * Seaborn
 * Pandas
+* Numpy
